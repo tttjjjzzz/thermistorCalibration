@@ -43,7 +43,7 @@ float readLM75A() {
 
     if (Wire.available() == 2) {
         int16_t rawTemp = (Wire.read() << 8) | Wire.read(); 
-        return rawTemp / 256.0; // Convert to °C
+        return rawTemp / 256.0; // Convert to C
     }
     
     return -100.0; // Error value

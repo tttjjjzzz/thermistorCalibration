@@ -1,0 +1,5 @@
+Polynomial Coefficients:
+Coefficient of T^3: 255.059680
+Coefficient of T^2: -19559.235736
+Coefficient of T^1: 498641.676432
+Coefficient of T^0: -4217594.948926

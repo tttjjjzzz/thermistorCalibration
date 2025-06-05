@@ -1,0 +1,4 @@
+Steinhart-Hart Coefficients:
+A: -6.649807e-03
+B: 1.621680e-03
+C: -6.311504e-06
